@@ -1,1 +1,1 @@
-Este é um exemplo de LP com um formulário salvando em localStorage as variáveis de nome e e-mail.
+Este é um exemplo de cadastro simples de produtos e clientes, como desafio 02 Gama Academy
